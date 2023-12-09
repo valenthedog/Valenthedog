@@ -5,7 +5,7 @@
 ![ValentheDog GitHub stats](https://github-readme-stats.vercel.app/api?username=valenthedog&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valenthedog&hide_progress=true)
 
-## My working languages:
+## Skills:
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="C#"src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
